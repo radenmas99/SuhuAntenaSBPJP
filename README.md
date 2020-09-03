@@ -1,3 +1,3 @@
 # Monitoring Suhu Antena SBPJP
 
-Memantau Suhu Antena dan Ruang Server Stasiun Bumi Penginderaan Jauh Parepare secara realtime
+Memantau suhu antena dan server menjadi lebih mudah, kapanpun dan dimanapun secara online
